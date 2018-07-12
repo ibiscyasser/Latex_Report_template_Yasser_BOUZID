@@ -1,5 +1,5 @@
 # Latex_Report_template_Yasser_BOUZID
-Advaned Latex report template 
+Latex report template 
 % Y. BOUZID-2018
 % LAB IBISC, Univ Evry
 % Univ Paris-Saclay
